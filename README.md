@@ -14,7 +14,8 @@ QUESTION: 		`http://localhost:8080/questions`
 ##### ReactJS SPA
 
 4. Open another terminal window and move into the client directory which contains the front-end SPA: `cd client`
-5. Launch the client SPA using: `yarn start`
+5. Install the project dependencies with: `yarn install`
+6. Launch the client SPA using: `yarn start`
 
 
 The application is accessible @:
