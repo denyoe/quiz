@@ -8,9 +8,11 @@
 2. Move into the quiz-rest-marcek directory: `cd quiz-rest-marcek`
 3. Then: `./mvnw spring-boot:run` to start the server
 
-API BASE URL: 	`http://127.0.0.1:8080`
-QUIZ: 			`http://127.0.0.1:8080/quiz`
-QUESTION: 		`http://localhost:8080/questions`
+API BASE URL: `http://127.0.0.1:8080`
+
+QUIZ: `http://127.0.0.1:8080/quiz`
+
+QUESTION: `http://localhost:8080/questions`
 
 
 ##### ReactJS SPA
