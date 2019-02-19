@@ -1,4 +1,6 @@
-### Quiz Application
+### Quiz App - Java <-> React
+
+<img src="screenshot.png" alt="App Screenshot">
 
 ##### JAVA Backend API
 
